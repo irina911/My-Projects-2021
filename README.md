@@ -1,1 +1,1 @@
-# My Weekly ML Projects from MIT Data Science Program 2021
+# My Weekly ML Projects 2021
